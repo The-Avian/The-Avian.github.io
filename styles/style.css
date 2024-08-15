@@ -47,7 +47,7 @@ li {
 
 /* Links */
 a {
-    color: #0040cb;
+    color: #496dba;
     text-decoration: none;
 }
 
@@ -60,3 +60,5 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
+}
+
